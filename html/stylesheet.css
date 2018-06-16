@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond|Forum');
+
+body {
+  font-family: 'Forum', cursive;
+  max-width: 768px;
+  margin: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  line-height: 1.5;
+}
+
+.super-header {
+  margin-bottom: 20px;
+  font-size: 200%;
+  line-height: 1.25;
+}
+
+.header {
+  margin-bottom: 50px;
+  font-size: 400%;
+  line-height: 1.1;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  border-bottom: red 1px solid;
+}
+
+.copyright {
+  margin-top: 50px;
+  font-size: 75%;
+}
+
+img {
+  display: block;
+  max-width: 768px;
+}
+
+p, ol, li {
+  font-family: 'EB Garamond', serif;
+}
+
+.content {
+  font-size: 1.08em;
+}
