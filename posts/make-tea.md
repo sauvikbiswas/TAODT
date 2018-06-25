@@ -3,7 +3,7 @@ $ post_title : Making a cup of black tea
 $ post_group : On making tea
 $ post_last_update: 2018-06-19
 
-## Tea is a metaphor for life itself.
+## Tea as a metaphor
 
 A tea leaf, after getting plucked, cannot be directly used for brewing. Once it is plucked, it must be wilted, crushed, oxidised and rolled before it can be used in any form. There is a transformation involved in the process, almost like a metamorphosis--a chain of chemical reactions that imparts flavour to the brew and meaning to its existence. The process is different for oolong, white, yellow, green, or fermented tea. Still, the struggle is real. It's different but real.
 
