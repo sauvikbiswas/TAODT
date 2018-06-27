@@ -1,6 +1,6 @@
 $ post_id : making-tea
-$ post_title : Making a cup of black tea
-$ post_group : On making tea
+$ post_title : A cup of black tea
+$ post_group : Front matter
 $ post_last_update: 2018-06-19
 
 ## Tea as a metaphor
