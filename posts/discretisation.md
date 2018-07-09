@@ -1,7 +1,7 @@
 $ post_id : discretisation
 $ post_title : Discretisation and Objectification
 $ post_group : Clusters
-$ post_last_update: 2018-06-23
+$ post_last_update: 2018-07-09; 2018-06-23
 
 ## Discretisation as a fundamental computation
 
@@ -32,3 +32,13 @@ The nature of objectification is such that the action and the resultants of disc
 The example involving the nomenclature of bicycle and its parts is a good, simple example. We progressively delved into smaller and smaller scales. This process can be done at even lower and lower scales, *ad infinitum*.
 
 It might be worthwhile to look into an abstract concept and see how this property holds.
+
+### Mandelbrot and the British coastline
+
+The important thing to note is that the level at which the act of objectification is carried out is highly dependent on the objects used to build a model of the phenomenon we are trying to observe. Since we have touched upon the fractal nature of objectification, let's use the original metaphor proposed by Benoit B. Mandelbrot himself.
+
+The earliest, well-formulated, published work involving fractals (the term wasn't invented yet) is also the easiest to understand. With very little knowledge of mathematics, one can run a thought experiment and understand the recursive nature of objectification. The idea that we are going to use here is the well-known coastline paradox.
+
+The title of his paper contains a question "How Long Is the Coast of Britain?" It turns out that it is not easy to answer that question. If a person has a ruler that is 100 km long, he has no choice but to divide the jagged lines of the coast into straight lines that measure as multiples of 100 kms. The closest answer he would obtain is 2800 km. If he used a ruler that is half as long as the previous one, the coastline--now drawn using lines that are multiples of 50 km--would turn out to be 3400 km long. It is possible to use a very small ruler that can measure the bends of the molecules that form the edge of the landmass. In such a case, he will obtain a coastline that is of massive length!
+
+This is where we choose a manageable size of ruler--a sensible yardstick of measurement. One may ask, "What is sensible?" The answer lies in the phenomenon that the observer is trying to interpret using a model that requires a particular level of granularity of objectification. If the desired outcome is a rough estimate of the area of Britain measured to the nearest square kilometre, one can use a half-a-kilometre-long ruler. If the desired outcome is the set of polygonal boundaries in a surface allocation model of all isolated landmasses of this earth, a larger ruler would do the job.
