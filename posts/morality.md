@@ -1,5 +1,5 @@
-$ post_id : temporal-variation
-$ post_title : Morality
+$ post_id : morality
+$ post_title : Morality, Ethics and Law
 $ post_group : Clusters
 $ post_last_update: 2018-06-27
 
